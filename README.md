@@ -51,3 +51,20 @@ Metodos abstratos nao tem escopo, logo nao tem as chaves.
 
 E esses metodos abstratos tem que ser inseridos na classe que vai implementar essa interface.
 
+# PAMII - Herança
+
+Imaginem que voces foram contratados para criar um
+app para um zoologico.
+
+Entao temos que criar classes para esses animais.
+Esses animais terao varios atributos, mas alguns
+serao para todos, por exemplo:
+
+nome, um peso, uma comida, uma foto
+
+E todos os animais vao poder comer, dormir, se
+movimentar, fazerBarulho.
+
+Alguns desses animais farão coisas diferentes, como
+o cachorro enterraOsso, a galinha cisca, botaOvo.
+Fazer um DC de um Cachorro, Coruja e Galinha

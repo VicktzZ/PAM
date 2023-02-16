@@ -41,3 +41,13 @@ Para isso, vamos criar as cores dentro do
 arquivo colos.xml. Esse arquivo está dentro da
 pasta values.
 
+# PAMII - Interface
+
+Interface é um contrato que fazemos entre nossa classe e quem quizer usar a classe.
+
+Uma interface tem apenas metodos abstratos.
+
+Metodos abstratos nao tem escopo, logo nao tem as chaves.
+
+E esses metodos abstratos tem que ser inseridos na classe que vai implementar essa interface.
+
